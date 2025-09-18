@@ -24,25 +24,25 @@ const categories = [
     id: "grilled",
     name: "الأطباق الرئيسية",
     icon: ChefHat,
-    description: "كبدة، مخ، فيليه، جمبري",
+    description: "كبدة، مخ، فليه، جمبري",
   },
   {
     id: "different",
     name: "الأطباق المشكلة",
     icon: ChefHat,
-    description: "كبدة، مخ، فيليه، جمبري",
+    description: "كبدة، مخ، فليه، جمبري",
   },
   {
     id: "meals",
     name: "وجبات الشرقاوي",
     icon: ChefHat,
-    description: "كبدة، مخ، فيليه، جمبري",
+    description: "كبدة، مخ، فليه، جمبري",
   },
   {
     id: "sandwichs",
     name: "سندويتشات",
     icon: ChefHat,
-    description: "كبدة، مخ، فيليه، جمبري",
+    description: "كبدة، مخ، فليه، جمبري",
   },
   {
     id: "rice",
@@ -232,7 +232,7 @@ const menuData = {
   //   },
   //   {
   //     id: 114,
-  //     name: "كبدة ومخ وجمبري وفيليه",
+  //     name: "كبدة ومخ وجمبري وفليه",
   //     sizes: [
   //       { size: "كيلو", price: 250 },
   //       { size: "3/4", price: 175 },
@@ -245,7 +245,7 @@ const menuData = {
   //   },
   //   {
   //     id: 115,
-  //     name: "جمبري وفيليه",
+  //     name: "جمبري وفليه",
   //     sizes: [
   //       { size: "كيلو", price: 250 },
   //       { size: "3/4", price: 175 },
@@ -305,7 +305,7 @@ const menuData = {
     // },
     {
       id: 125,
-      name: "وجبة فيليه",
+      name: "وجبة فليه",
       sizes: [
         { size: "سلطة، طحينه ", price: 45 },
       ],
