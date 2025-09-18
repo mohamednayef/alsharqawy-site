@@ -8,7 +8,6 @@ import { Card, CardContent } from "@/components/ui/card"
 import { ChefHat, Utensils, Salad, Coffee, Grid3X3 } from "lucide-react"
 import { MapPin, Phone, Clock, MessageCircle, Star } from "lucide-react"
 
-
 const CARD_WIDTH = 256
 const GAP = 16
 const ITEM_WIDTH = CARD_WIDTH + GAP
@@ -439,12 +438,18 @@ const menuData = {
     },
     {
       id: 18,
-      name: "خيار مخلل وبتنجان",
+      name: "خيار مخلل",
       sizes: [{ size: "طبق", price: 5 }],
       image: "/kheyar.jpeg?height=120&width=224",
     },
     {
       id: 19,
+      name: "بتنجان",
+      sizes: [{ size: "طبق", price: 5 }],
+      image: "/kheyar.jpeg?height=120&width=224",
+    },
+    {
+      id: 20,
       name: "عيش",
       sizes: [{ size: "رغيف", price: 1 }],
       image: "/eash.jpeg?height=120&width=224",

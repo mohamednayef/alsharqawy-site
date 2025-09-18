@@ -1,5 +1,6 @@
 "use client"
 
+import Link from "next/link";
 import { Button } from "@/components/ui/button"
 import { MapPin, Phone, Clock, Facebook, Instagram, Twitter } from "lucide-react"
 
@@ -23,4 +24,16 @@ export default function Footer() {
         </div>
       </footer>
   )
+}
+
+export function MyComponent() {
+  return (
+    <Link 
+      href="" 
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      فيسبوك
+    </Link>
+  );
 }

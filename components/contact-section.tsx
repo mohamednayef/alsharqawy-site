@@ -5,6 +5,9 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { MapPin, Phone, Clock, MessageCircle, Star } from "lucide-react"
+import Link from "next/link";
+// import { FaFacebook } from "react-icons/fa";
+
 
 export default function ContactSection() {
   return (
@@ -72,6 +75,23 @@ export default function ContactSection() {
                     </div>
                   </CardContent>
                 </Card>
+                <Card className="hover:shadow-md transition-shadow duration-200">
+                  <CardContent className="p-6">
+                    <div className="flex items-center space-x-4 space-x-reverse">
+                      <div>
+                        <i className="fa-brands fa-facebook text-blue-600 text-5xl"></i>
+                        <Link 
+                          href="https://facebook.com" 
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <span>Facebook</span>
+                        </Link>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+                
 
                 {/* WhatsApp */}
                 {/* <Card className="hover:shadow-md transition-shadow duration-200">
