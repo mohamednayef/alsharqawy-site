@@ -69,23 +69,29 @@ export default function ContactSection() {
                       </div>
                       <div>
                         <h4 className="font-semibold text-foreground mb-1">ساعات العمل</h4>
-                        <p className="text-muted-foreground">يومياً من 12:00 ظهراً - 2:00 صباحاً</p>
+                        <p className="text-muted-foreground">يومياً من 11:00 ظهراً - 5:00 صباحاً</p>
                         <p className="text-muted-foreground">خدمة التوصيل متاحة</p>
                       </div>
                     </div>
                   </CardContent>
                 </Card>
+                {/* Facebook */}
                 <Card className="hover:shadow-md transition-shadow duration-200">
                   <CardContent className="p-6">
                     <div className="flex items-center space-x-4 space-x-reverse">
-                      <div>
+                      <div className=" p-3 rounded-full">
                         <i className="fa-brands fa-facebook text-blue-600 text-5xl"></i>
-                        <Link 
-                          href="https://facebook.com" 
+                      </div>
+
+                      <div>
+                        <h4 className="font-semibold text-foreground mb-1">فيسبوك</h4>
+                        <Link
+                          href="https://facebook.com"
                           target="_blank"
                           rel="noopener noreferrer"
+                          className="text-muted-foreground hover:underline"
                         >
-                          <span>Facebook</span>
+                          كبدة ومخ الشرقاوي فرع الكُنَيسة
                         </Link>
                       </div>
                     </div>

@@ -386,36 +386,36 @@ const menuData = {
       ],
       image: "/rice01.jpg",
     },
-    {
-      id: 12,
-      name: "أرز بالجمبري",
-      sizes: [
-        { size: "صغير", price: 15 },
-        { size: "وسط", price: 30 },
-        { size: "كبير", price: 45 },
-      ],
-      image: "/shrimp-rice-middle-eastern-cuisine.jpg",
-    },
-    {
-      id: 13,
-      name: "أرز بالكبدة",
-      sizes: [
-        { size: "صغير", price: 15 },
-        { size: "وسط", price: 30 },
-        { size: "كبير", price: 45 },
-      ],
-      image: "/vegetable-rice-middle-eastern-style.jpg",
-    },
-    {
-      id: 14,
-      name: "أرز بالبانيه",
-      sizes: [
-        { size: "صغير", price: 15 },
-        { size: "وسط", price: 30 },
-        { size: "كبير", price: 45 },
-      ],
-      image: "/special-seasoned-rice-middle-eastern.jpg",
-    },
+    // {
+    //   id: 12,
+    //   name: "أرز بالجمبري",
+    //   sizes: [
+    //     { size: "صغير", price: 15 },
+    //     { size: "وسط", price: 30 },
+    //     { size: "كبير", price: 45 },
+    //   ],
+    //   image: "/shrimp-rice-middle-eastern-cuisine.jpg",
+    // },
+    // {
+    //   id: 13,
+    //   name: "أرز بالكبدة",
+    //   sizes: [
+    //     { size: "صغير", price: 15 },
+    //     { size: "وسط", price: 30 },
+    //     { size: "كبير", price: 45 },
+    //   ],
+    //   image: "/vegetable-rice-middle-eastern-style.jpg",
+    // },
+    // {
+    //   id: 14,
+    //   name: "أرز بالبانيه",
+    //   sizes: [
+    //     { size: "صغير", price: 15 },
+    //     { size: "وسط", price: 30 },
+    //     { size: "كبير", price: 45 },
+    //   ],
+    //   image: "/special-seasoned-rice-middle-eastern.jpg",
+    // },
   ],
   salads: [
     {
