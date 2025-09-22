@@ -51,7 +51,7 @@ export default function Navbar() {
           <div className="hidden lg:flex items-center space-x-4 space-x-reverse">
             <div className="flex items-center space-x-2 space-x-reverse text-sm text-muted-foreground">
               <Phone className="h-4 w-4" />
-              <span>01002251854</span>
+              <span>01069044928</span>
             </div>
             <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">اطلب الآن</Button>
           </div>
