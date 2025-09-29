@@ -86,7 +86,7 @@ export default function ContactSection() {
                       <div>
                         <h4 className="font-semibold text-foreground mb-1">فيسبوك</h4>
                         <Link
-                          href="https://facebook.com"
+                          href="https://www.facebook.com/share/163VjBRXKe/?mibextid=wwXIfr"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-muted-foreground hover:underline"

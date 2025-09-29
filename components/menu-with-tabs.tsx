@@ -70,7 +70,7 @@ const menuData = {
       name: "كبدة",
       sizes: [
         { size: "كيلو", price: 340 },
-        // { size: "3/4", price: 175 },
+        { size: "3/4", price: 260 },
         { size: "1/2", price: 170 },
         // { size: "1/3", price: 120 },
         { size: "1/4", price: 90 },
@@ -83,7 +83,7 @@ const menuData = {
       name: "مخ",
       sizes: [
         { size: "كيلو", price: 800 },
-        // { size: "3/4", price: 200 },
+        { size: "3/4", price: 600 },
         { size: "1/2", price: 400 },
         // { size: "1/3", price: 140 },
         { size: "1/4", price: 200 },
@@ -96,7 +96,7 @@ const menuData = {
       name: "جمبري صغير",
       sizes: [
         { size: "كيلو", price: 440 },
-        // { size: "3/4", price: 350 },
+        { size: "3/4", price: 330 },
         { size: "1/2", price: 220 },
         // { size: "1/3", price: 260 },
         { size: "1/4", price: 110 },
@@ -109,7 +109,7 @@ const menuData = {
       name: "جمبري وسط",
       sizes: [
         { size: "كيلو", price: 1100 },
-        // { size: "3/4", price: 250 },
+        { size: "3/4", price: 825 },
         { size: "1/2", price: 550 },
         // { size: "1/3", price: 180 },
         { size: "1/4", price: 275 },
@@ -122,7 +122,7 @@ const menuData = {
       name: "فليه",
       sizes: [
         { size: "كيلو", price: 380 },
-        // { size: "3/4", price: 350 },
+        { size: "3/4", price: 285 },
         { size: "1/2", price: 190 },
         // { size: "1/3", price: 260 },
         { size: "1/4", price: 95 },
@@ -135,7 +135,7 @@ const menuData = {
       name: "فراخ بانيه",
       sizes: [
         { size: "كيلو", price: 380 },
-        // { size: "3/4", price: 350 },
+        { size: "3/4", price: 285 },
         { size: "1/2", price: 190 },
         // { size: "1/3", price: 260 },
         { size: "1/4", price: 95 },
@@ -189,20 +189,21 @@ const menuData = {
     //   image: "/liver-brain-shrimp-mixed-grilled-platter.jpg",
     // },
   ],
-  // different: [
-  //   {
-  //     id: 111,
-  //     name: "كبدة ومخ",
-  //     sizes: [
-  //       { size: "كيلو", price: 250 },
-  //       { size: "3/4", price: 175 },
-  //       { size: "1/2", price: 120 },
-  //       { size: "1/3", price: 120 },
-  //       { size: "1/4", price: 65 },
-  //       { size: "1/8", price: 65 },
-  //     ],
-  //     image: "/liver01.jpg",
-  //   },
+  different: [
+    {
+      id: 111,
+      name: "مشكل",
+      sizes: [
+        { size: "كيلو", price: 500 },
+        { size: "3/4", price: 375 },
+        { size: "1/2", price: 250 },
+        // { size: "1/3", price: 125 },
+        { size: "1/4", price: 125 },
+        { size: "1/8", price: 65 },
+        { size: "سندوتش", price: 40 },
+      ],
+      image: "/liver01.jpg",
+    },
   //   {
   //     id: 112,
   //     name: "كبدة وجمبري",
@@ -268,7 +269,7 @@ const menuData = {
   //     ],
   //     image: "/liver01.jpg",
   //   },
-  // ],
+  ],
   meals: [
     {
       id: 121,
