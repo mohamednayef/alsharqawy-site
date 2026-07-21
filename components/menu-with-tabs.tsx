@@ -279,7 +279,7 @@ const menuData = {
         { size: "وسط", price: 65 },
         { size: "كبير", price: 80 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     // {
     //   id: 122,
@@ -287,7 +287,7 @@ const menuData = {
     //   sizes: [
     //     { size: "المكونات: سلطة، طحينة، كانز", price: 250 },
     //   ],
-    //   image: "/liver01.jpg",
+    //   image: "/z.jpg",
     // },
     {
       id: 123,
@@ -297,7 +297,7 @@ const menuData = {
         { size: "وسط", price: 70 },
         { size: "كبير", price: 90 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     // {
     //   id: 124,
@@ -305,7 +305,7 @@ const menuData = {
     //   sizes: [
     //     { size: "المكونات: سلطة، طحينة، كانز", price: 250 },
     //   ],
-    //   image: "/liver01.jpg",
+    //   image: "/z.jpg",
     // },
     {
       id: 125,
@@ -315,7 +315,7 @@ const menuData = {
         { size: "وسط", price: 70 },
         { size: "كبير", price: 90 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     {
       id: 126,
@@ -325,7 +325,7 @@ const menuData = {
         { size: "وسط", price: 70 },
         { size: "كبير", price: 90 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
   ],
   sandwichs: [
@@ -337,7 +337,7 @@ const menuData = {
         { size: "وسط", price: 25 },
         { size: "كبير", price: 30 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     {
       id: 132,
@@ -346,7 +346,7 @@ const menuData = {
         { size: "وسط", price: 50 }, 
         { size: "كبير", price: 70 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     {
       id: 133,
@@ -356,7 +356,7 @@ const menuData = {
         { size: "وسط", price: 30 }, 
         { size: "كبير", price: 35 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     {
       id: 134,
@@ -365,7 +365,7 @@ const menuData = {
         { size: "وسط", price: 70 }, 
         // { size: "كبير", price: 30 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     {
       id: 135,
@@ -375,7 +375,7 @@ const menuData = {
         { size: "وسط", price: 30 }, 
         { size: "كبير", price: 35 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
     {
       id: 136,
@@ -385,7 +385,7 @@ const menuData = {
         { size: "وسط", price: 30 }, 
         { size: "كبير", price: 35 },
       ],
-      image: "/liver01.jpg",
+      image: "/z.jpg",
     },
   ],
   rice: [
